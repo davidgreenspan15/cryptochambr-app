@@ -1,2 +1,2 @@
-# chambr-app
-Rails app for Chambr: Crypto Wallet
+# cryptochambr-app
+Rails app for CryptoChambr: Crypto Wallet
